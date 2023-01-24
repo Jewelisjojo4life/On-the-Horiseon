@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "first-week-challenge",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Develop"
+	}
+}
